@@ -26,7 +26,7 @@ Validações básicas nos campos obrigatórios do formulário.​
 Dificuldades encontradas
     Principais desafios envolveram a configuração do sqflite com o path_provider, a implementação correta dos métodos do CRUD e a sincronização da interface devido ser uma aplicação que requesite muito processamento e memória do disco.
 
-link do video: https://drive.google.com/file/d/1nWQxEZ_KTSv7QpKAjv1htTJNkZKLshTf/view?usp=sharing
+link do video:[ https://drive.google.com/file/d/1nWQxEZ_KTSv7QpKAjv1htTJNkZKLshTf/view?usp=sharing](https://drive.google.com/file/d/1a5XoybBWoGGSynUehLx20uUaLlxxVs5E/view?usp=sharing)
 
 <img width="299" height="235" alt="BancoCriado" src="https://github.com/user-attachments/assets/5767225b-9338-4d89-a1e1-bf7bd9af89c3" />
 
